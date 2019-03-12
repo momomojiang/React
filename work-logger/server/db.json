@@ -1,0 +1,36 @@
+{
+  "user": [
+    {
+      "name": "小酸梅",
+      "age": 27,
+      "gender": "female",
+      "id": 10003
+    },
+    {
+      "name": "甜栗子",
+      "age": "40",
+      "gender": "male",
+      "id": 10004
+    },
+    {
+      "name": "小花",
+      "age": "18",
+      "gender": "female",
+      "id": 10007
+    }
+  ],
+  "book": [
+    {
+      "id": 10000,
+      "name": "JavaScript从入门到精通",
+      "price": 9990,
+      "owner_id": 10000
+    },
+    {
+      "id": 10001,
+      "name": "Java从入门到放弃",
+      "price": 1990,
+      "owner_id": 10001
+    }
+  ]
+}
