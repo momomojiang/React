@@ -1,0 +1,23 @@
+.wrapper{
+    text-align: center;
+    color:darkolivegreen;
+}
+.btn{
+    display: block;
+    margin-bottom: 30px;
+}
+select{
+    display: block;
+}
+.time{
+    border: 3px solid red;
+    text-align:center;
+    font-family: 'Bowlby One SC', cursive;
+    width: 300px;
+    height: 300px;
+    margin: 5px;
+    display:inline-flexbox;
+    float: left;
+
+
+}
