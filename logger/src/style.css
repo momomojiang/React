@@ -1,0 +1,34 @@
+.title{
+    text-align: center;
+}
+.form-control {
+    width: 50%;
+    border: 1px solid #ccc;
+    padding: 10px; 
+    margin: 16px;
+  }
+  
+  .control-error {
+    border: 1px solid red;
+  }
+  .body{
+    border:1px solid red;
+    width: 20rem;
+    display: inline-block;
+  }
+  .persoanl-body{
+    width:30rem;
+    padding:10px;
+    position: relative;
+    display: inline-block;
+    margin: 10px 120px;
+    border: 1px solid pink;
+  }
+  .work-body{
+    width:30rem;
+    padding:10px;
+    position:absolute;
+    display: inline-block;
+    margin: 10px 320px;
+    border: 1px solid skyblue;
+  }
