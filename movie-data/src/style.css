@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+}
+.form-div{
+    background-color: #FFF;
+    height: 100px;
+    width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    text-align:center;
+    margin-top:50px;
+}
+
+label{
+    width: 200px;
+    text-align: right;
+    margin-right:7px;
+    float:left;
+}
+button{
+    margin-left: 10px;
+}
+input{
+    width: 300px;
+    border: 2px solid goldenrod;
+}
+.result-body{
+    border: 2px solid goldenrod;
+    height: auto;
+    width:600px;
+    padding: 10px;
+    text-align:left;
+    position: absolute;
+    margin: -100px 0 0 -200px;
+    top: 50%;
+    left: 50%;
+    overflow-y:scroll;
+
+
+}
+
