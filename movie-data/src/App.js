@@ -25,6 +25,7 @@ class App extends React.Component {
     //         })
     // }
     onHandleSubmit(name) {
+        this.setState({ movie: null, error: null })
         this.fetchData(name);
     }
     fetchData(name) {
@@ -34,7 +35,9 @@ class App extends React.Component {
                 this.setState({ movie: response.data })
             })
             .catch(error => {
-                console.log(error)
+                this.setState({
+                    error:"Movie not found"
+                })
             })
 
     }
