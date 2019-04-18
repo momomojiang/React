@@ -1,0 +1,15 @@
+*{
+	/*outline: 1px dotted red;*/
+	margin: 0px;
+	padding:0px;
+    font-family: fantasy;
+    
+}
+html{
+    height: 1000px;
+}
+
+body .root{
+    width: 1130px;
+    
+}

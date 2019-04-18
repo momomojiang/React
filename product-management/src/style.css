@@ -1,0 +1,125 @@
+.App{
+    background-color: #F5F4EB;
+    margin: 0 auto;
+    height: 1120px;;
+	width: 1130px;
+}
+.creation-div{
+    width: 1130px;
+    margin:5px auto;
+}
+.home-div{
+    width: 1130px;
+    height: auto;
+    display: inline-block;
+    padding: 0px;
+}
+.list-div{
+    width: 1900px;
+    height: 1015px;
+    position: absolute;
+    margin-left: -490px;
+}
+.title{
+    padding-right: .5rem;
+    padding-left: .5rem;
+    padding-top:0.9rem;
+    font-size:0.8cm;
+    color:rgb(60, 60, 60);
+}
+.nav-link{
+    font-size:0.6cm;
+    margin-left: 15px;
+    padding-top:0.9rem;
+}
+.border-div{
+    border-bottom:1px solid black;
+    bottom: 30%;
+}
+.home-p{
+    color:rgb(180, 180, 180);
+    font-size: 29px;
+    word-spacing: 0.2ch;
+
+}
+.home-h2, .list-h2, .creation-h2{
+    color:rgb(120, 120, 120);
+}
+.home-flower{
+    float:right;
+    height: 900px;
+    width: 520px;
+}
+.text-wrapper{
+    display: inline-block;
+    width: 510px;
+    margin: 80px 50px;
+
+}
+form{
+    margin-top: 30px;
+    width: 450px;
+}
+.flower{
+    height: 500px;
+    width: 520px;
+}
+.creation-flower{
+    float:right;
+    margin-top: 450px;
+    margin-right: 5px;
+    height: 550px;
+}
+.product{
+    width: 450px;
+    height: 500px;
+    display: inline-block; 
+    text-align: center;
+    border: 1px solid brown;
+    margin: 30px 0px 0px 65px;
+}
+.list-img{
+    width: 400px;
+    height: 320px;
+    margin-top: 20px;
+}
+.list-title{
+    margin-top: 15px;
+
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.btn-edit, .btn-delt{
+    margin: 0 10px;
+    padding: 3px;
+}
+.product-wrapper{
+    margin-top: 30px;
+    display: inline-block;
+    overflow-y: scroll;
+    width: 1110px;
+    height: 890px;
+    margin-left: 50px;
+}
+.list-Flower{
+    height: 650px;
+    margin-left: 50px;
+    margin-top: 60px;
+    width: 400px;
+    float: left;
+}
+.list-Flower2{
+    height: 650px;
+    width: 400px;
+    margin-top: -1229px;
+    margin-left:1650px;
+
+}
+.list-h2{
+    width: 600px;
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 75px;
+
+}

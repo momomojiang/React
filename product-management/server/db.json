@@ -1,0 +1,10 @@
+{
+  "products": [
+    {
+      "title": "Instax Square SQ6",
+      "price": "127",
+      "imgUrl": "https://media.wired.com/photos/5bcfb740c09dee5cbd062e71/4:3/w_1400,c_limit/SQ6_left_Gold_power-on.jpg",
+      "id": 1
+    }
+  ]
+}
